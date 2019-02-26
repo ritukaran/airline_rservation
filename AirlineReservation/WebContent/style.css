@@ -1,0 +1,60 @@
+
+
+body
+   {
+        margin: 0;
+        padding: 0;
+	background-image: url(images/BackgroundImg.jpg);
+        background-repeat:no-repeat;
+        background-size:100% 100%;
+        height:700px;
+        background-attachment:fixed;
+        font-family: LUCIDA; 
+        font-size: 200%; 
+        line-height: 1.2em;
+
+   }
+   
+   
+    .container
+  {
+  
+    width:80%;
+    height:50%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto; 
+  }
+  
+  nav
+  {
+    width:78%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto; 
+  }
+  
+ #content{
+	//margin: 30px 0;
+        width:78%;
+        display:block;
+        margin-left: auto;
+        margin-right: auto; 
+	background: #FFFFFF;
+	padding: 20px;
+	clear: both;
+	font-size : 100%;
+}
+ 
+table, th, td {
+  
+}
+th, td {
+ 
+  padding: 10px;
+ 
+ 
+}
+  
+   
+
